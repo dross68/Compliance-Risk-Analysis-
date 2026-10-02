@@ -1,0 +1,16 @@
+transaction_id,customer_id,transaction_date,transaction_type,amount,country,complaint_flag,dispute_flag,risk_flag
+TXN001,CUST001,2026-09-01,ACH,125.50,United States,No,No,Low
+TXN002,CUST002,2026-09-01,Wire,8500.00,United States,No,No,Medium
+TXN003,CUST003,2026-09-02,Card,76.45,United States,Yes,Yes,Medium
+TXN004,CUST004,2026-09-02,Wire,15000.00,Nigeria,No,No,High
+TXN005,CUST005,2026-09-03,ACH,2450.00,United States,No,Yes,Medium
+TXN006,CUST006,2026-09-03,Card,52.99,United States,No,No,Low
+TXN007,CUST007,2026-09-04,Wire,21000.00,Russia,Yes,No,High
+TXN008,CUST008,2026-09-05,Card,899.99,United States,Yes,Yes,Medium
+TXN009,CUST009,2026-09-05,ACH,3200.00,Canada,No,No,Low
+TXN010,CUST010,2026-09-06,Wire,9800.00,United Kingdom,No,No,Medium
+TXN011,CUST003,2026-09-07,Card,125.00,United States,Yes,Yes,Medium
+TXN012,CUST011,2026-09-07,Wire,27500.00,United States,No,No,High
+TXN013,CUST012,2026-09-08,ACH,650.00,United States,No,No,Low
+TXN014,CUST013,2026-09-08,Card,43.75,United States,No,No,Low
+TXN015,CUST014,2026-09-09,Wire,12000.00,Iran,No,No,High
