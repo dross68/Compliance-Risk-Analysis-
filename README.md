@@ -41,3 +41,4 @@ In Progress
 4. Write SQL queries
 5. Document findings
 6. Recommend possible compliance actions
+7. Add compliance analysis findings
